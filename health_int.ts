@@ -61,57 +61,57 @@ function getCatalog(): Catalog {
     },
     {
       id: "intervention-11",
-      name: "Drinking Water (500mL)",
+      name: "Drinking Water (500 mL)",
       clusterId: "interventions",
     },
      {
       id: "intervention-12",
-      name: "Drinking Green Tea (1cup)",
+      name: "Drinking Green Tea (1 cup)",
       clusterId: "interventions",
     },
      {
       id: "intervention-13",
-      name: "Taking Turmeric (1tsp)",
+      name: "Taking Turmeric (1 tsp)",
       clusterId: "interventions",
     },
      {
       id: "intervention-14",
-      name: "Eating Blueberries (1cup)",
+      name: "Eating Blueberries (1 cup)",
       clusterId: "interventions",
     },
      {
       id: "intervention-15",
-      name: "Having extra primary sleep (10min)",
+      name: "Having extra primary sleep (10 min)",
       clusterId: "interventions",
     },
      {
       id: "intervention-16",
-      name: "Laughing (5min)",
+      name: "Laughing (5 min)",
       clusterId: "interventions",
     },
     {
       id: "intervention-17",
-      name: "Social Interaction (30min)",
+      name: "Social Interaction (30 min)",
       clusterId: "interventions",
     },
     {
       id: "intervention-18",
-      name: "Washing hands (30sec)",
+      name: "Washing hands (30 sec)",
       clusterId: "interventions",
     },
     {
       id: "intervention-19",
-      name: "Wearing Face Mask (1day)",
+      name: "Wearing Face Mask (1 day)",
       clusterId: "interventions",
     },
     {
       id: "intervention-20",
-      name: "Brushing Teeth (2min)",
+      name: "Brushing Teeth (2 min)",
       clusterId: "interventions",
     },
     {
       id: "intervention-21",
-      name: "Flossing (1time)",
+      name: "Flossing (1 time)",
       clusterId: "interventions",
     },
     {
@@ -121,37 +121,57 @@ function getCatalog(): Catalog {
     },
     {
       id: "intervention-23",
-      name: "Taking brown sugar (10g)",
+      name: "Taking brown sugar (10 g)",
       clusterId: "interventions",
     },
       {
       id: "intervention-24",
-      name: "Taking white sugar (10g)",
+      name: "Taking white sugar (10 g)",
       clusterId: "interventions",
     },
       {
       id: "intervention-25",
-      name: "Taking stevia (1pack)",
+      name: "Taking stevia (1 pack)",
       clusterId: "interventions",
     },
       {
       id: "intervention-26",
-      name: "Drinking red wine (1oz)",
+      name: "Drinking red wine (1 oz)",
       clusterId: "interventions",
     },
       {
       id: "intervention-27",
-      name: "Drinking red wine (10z)",
+      name: "Drinking red wine (10 oz)",
       clusterId: "interventions",
     },
       {
       id: "intervention-28",
-      name: "Vomiting (2min)",
+      name: "Vomiting (2 min)",
       clusterId: "interventions",
     },
       {
       id: "intervention-29",
-      name: "Having diarrhea(1episode)",
+      name: "Having diarrhea(1 episode)",
+      clusterId: "interventions",
+    },
+     {
+      id: "intervention-30",
+      name: "Having mediocre headache (10 min)",
+      clusterId: "interventions",
+    },
+     {
+      id: "intervention-31",
+      name: "Sitting (1 hour)",
+      clusterId: "interventions",
+    },
+     {
+      id: "intervention-32",
+      name: "Screen time (1 hour)",
+      clusterId: "interventions",
+    },
+     {
+      id: "intervention-33",
+      name: "Smoking cigarette (1 stick)",
       clusterId: "interventions",
     },
   ];
