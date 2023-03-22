@@ -121,7 +121,37 @@ function getCatalog(): Catalog {
     },
     {
       id: "intervention-23",
-      name: "Eating brown sugar (10g)",
+      name: "Taking brown sugar (10g)",
+      clusterId: "interventions",
+    },
+      {
+      id: "intervention-24",
+      name: "Taking white sugar (10g)",
+      clusterId: "interventions",
+    },
+      {
+      id: "intervention-25",
+      name: "Taking stevia (1pack)",
+      clusterId: "interventions",
+    },
+      {
+      id: "intervention-26",
+      name: "Drinking red wine (1oz)",
+      clusterId: "interventions",
+    },
+      {
+      id: "intervention-27",
+      name: "Drinking red wine (10z)",
+      clusterId: "interventions",
+    },
+      {
+      id: "intervention-28",
+      name: "Vomiting (2min)",
+      clusterId: "interventions",
+    },
+      {
+      id: "intervention-29",
+      name: "Having diarrhea(1episode)",
       clusterId: "interventions",
     },
   ];
