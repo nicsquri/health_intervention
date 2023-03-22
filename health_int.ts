@@ -4,70 +4,70 @@ import { Map } from "immutable";
 function getCatalog(): Catalog {
   const items: Item[] = [
     {
-      id: "intervention-0",
+      id: "walking_in_nature_10min",
       name: "Walking in Nature (10 min)",
-      clusterId: "physical and mental health activities",
+      clusterId: "physical-and-mental-health-activities",
     },
     {
       id: "intervention-1",
       name: "Stretching (10 min)",
-      clusterId: "physical and mental health activities",
+      clusterId: "physical-and-mental-health-activities",
     },
     {
       id: "intervention-2",
       name: "Biking (10 min)",
-      clusterId: "physical and mental health activities",
+      clusterId: "physical-and-mental-health-activities",
     },
     {
       id: "intervention-3",
       name: "Meditation (10 min)",
-      clusterId: "physical and mental health activities",
+      clusterId: "physical-and-mental-health-activities",
     },
     {
       id: "intervention-4",
       name: "Taking Stairs (5 floors)",
-      clusterId: "physical and mental health activities",
+      clusterId: "physical-and-mental-health-activities",
     },
     {
       id: "intervention-5",
       name: "Strength Training (10 min)",
-      clusterId: "physical and mental health activities",
+      clusterId: "physical-and-mental-health-activities",
     },
   
     {
       id: "intervention-6",
       name: "Flu Vaccine (1 time)",
-      clusterId: "meds/supplements",
+      clusterId: "meds-supplements",
     },
     {
       id: "intervention-7",
       name: "Orthomega Fish Oil (1 cap)",
-      clusterId: "meds/supplements",
+      clusterId: "meds-supplements",
     },
     {
       id: "intervention-8",
       name: "Enhanced Zinc Lozenges (6 cap, assuming sick)",
-      clusterId: "meds/supplements",
+      clusterId: "meds-supplements",
     },
     {
       id: "intervention-9",
       name: "Eating Yogurt (1 serving)",
-      clusterId: "good food",
+      clusterId: "good-food",
     },
     {
       id: "intervention-10",
       name: "Whole Grain Bread (1 slice)",
-      clusterId: "good food",
+      clusterId: "good-food",
     },
     {
       id: "intervention-11",
       name: "Drinking Water (500 mL)",
-      clusterId: "good food",
+      clusterId: "good-food",
     },
      {
       id: "intervention-12",
       name: "Drinking Green Tea (1 cup)",
-      clusterId: "good food",
+      clusterId: "good-food",
     },
      {
       id: "intervention-13",
